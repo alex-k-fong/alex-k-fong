@@ -5,7 +5,7 @@ Aspiring nerd - Computer Science + Software Engineering + Electrical Engineering
 Feel free to check out some of my projects. 
 
 
-<a href="https://www.linkedin.com/in/alex-k-fong/"><img src="./public/LI-In-Bug.png" alt="Linkedin" width="45" height ="45"></a>
+<a href="https://www.linkedin.com/in/alex-k-fong/"><img src="public/LI-In-Bug.png" alt="Linkedin" width="45" height ="45"></a>
 
 <!--
 **alex-k-fong/alex-k-fong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -21,5 +21,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-x
