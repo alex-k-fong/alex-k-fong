@@ -1,4 +1,11 @@
-## Hi there 👋
+## Welcome to my GitHub!
+
+Aspiring nerd - Computer Science + Software Engineering + Electrical Engineering + Robotics 
+
+Feel free to check out some of my projects. 
+
+[![Connect with me on Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=YOUR_LINKEDIN_URL)](https://twitter.com)
+
 
 <!--
 **alex-k-fong/alex-k-fong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +21,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
