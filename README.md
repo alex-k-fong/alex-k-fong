@@ -4,7 +4,7 @@ Aspiring nerd - Computer Science + Software Engineering + Electrical Engineering
 
 Feel free to check out some of my projects. 
 
-[![Connect with me on Linkedin](test hehehe)](/public/LI-In-Bug.png)
+[![Connect with me on Linkedin](/public/LI-In-Bug.png)(https://www.linkedin.com/in/alex-k-fong/)
 
 
 <!--
