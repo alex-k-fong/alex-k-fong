@@ -1,23 +1,25 @@
-## Welcome to my GitHub!
+# Welcome to my GitHub!
 
-Aspiring nerd - Computer Science + Software Engineering + Electrical Engineering + Robotics 
+## Computer Science + Software Engineering + Electrical Engineering + Robotics 
 
-Feel free to check out some of my projects. 
+### Connect with me!
 
+<a href="https://www.linkedin.com/in/alex-k-fong/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="45" height ="45"></a>
+<a href="https://alex-k-fong.github.io/"><img src="public/websiteIcon.png" alt="PersonalWebsite" width="45" height ="45"></a>
+<a href="https://www.instagram.com/alexthewoah/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height ="45"></a>
 
-<a href="https://www.linkedin.com/in/alex-k-fong/"><img src="public/LI-In-Bug.png" alt="Linkedin" width="45" height ="45"></a>
+---
 
-<!--
-**alex-k-fong/alex-k-fong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills - Ranked in 3 tiers
 
-Here are some ideas to get you started:
+#### Running 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,python,c,windows,processing,p5js,html,git,vscode,idea,eclipse,sketchup,md)](https://skillicons.dev)
+
+#### Walking
+
+[![My Skills](https://skillicons.dev/icons?i=react,ts,js,css,opencv,tensorflow,latex,docker,verilog,swift,regex,raspberrypi,arduino,powershell,bash,androidstudio,anaconda)](https://skillicons.dev)
+
+#### Crawling
+
+[![My Skills](https://skillicons.dev/icons?i=vim,ubuntu,linux,kotlin,gradle,maven,ros,aws)](https://skillicons.dev)
