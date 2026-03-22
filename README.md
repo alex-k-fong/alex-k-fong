@@ -5,7 +5,7 @@
 ### Connect with me!
 
 <a href="https://www.linkedin.com/in/alex-k-fong/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="45" height ="45"></a>
-<a href="https://alex-k-fong.github.io/"><img src="public/websiteIcon.png" alt="PersonalWebsite" width="45" height ="45"></a>
+<a href="https://alex-k-fong.github.io/"><img src="/websiteIcon.png" alt="PersonalWebsite" width="45" height ="45"></a>
 <a href="https://www.instagram.com/alexthewoah/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height ="45"></a>
 
 ---
