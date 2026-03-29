@@ -12,14 +12,14 @@
 
 ### Skills - Ranked in 3 tiers
 
-#### Running 
+#### Solid Proficiency 
 
 [![My Skills](https://skillicons.dev/icons?i=java,cpp,python,c,windows,processing,p5js,html,git,vscode,idea,eclipse,sketchup,md)](https://skillicons.dev)
 
-#### Walking
+#### Basic Proficiency
 
 [![My Skills](https://skillicons.dev/icons?i=react,ts,js,css,opencv,tensorflow,latex,docker,verilog,swift,regex,raspberrypi,arduino,powershell,bash,androidstudio,anaconda)](https://skillicons.dev)
 
-#### Crawling
+#### Grasping the Basics
 
 [![My Skills](https://skillicons.dev/icons?i=vim,ubuntu,linux,kotlin,gradle,maven,ros,aws)](https://skillicons.dev)
