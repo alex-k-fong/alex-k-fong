@@ -1,13 +1,6 @@
 # Welcome to my GitHub!
 
 ## Computer Science + Software Engineering + Electrical Engineering + Robotics 
-
-### Connect with me!
-
-<a href="https://www.linkedin.com/in/alex-k-fong/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="45" height ="45"></a>
-<a href="https://alex-k-fong.github.io/"><img src="public/websiteIcon.png" alt="PersonalWebsite" width="45" height ="45"></a>
-<a href="https://www.instagram.com/alexthewoah/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height ="45"></a>
-
 ---
 
 ### Skills - Ranked in 3 tiers
@@ -23,3 +16,10 @@
 #### Grasping the Basics
 
 [![My Skills](https://skillicons.dev/icons?i=vim,ubuntu,linux,kotlin,gradle,maven,ros,aws)](https://skillicons.dev)
+
+---
+### More about me!
+
+<a href="https://www.linkedin.com/in/alex-k-fong/"><img src="https://skillicons.dev/icons?i=linkedin" alt="Linkedin" width="45" height ="45"></a>
+<a href="https://alex-k-fong.github.io/"><img src="public/websiteIcon.png" alt="PersonalWebsite" width="45" height ="45"></a>
+<a href="https://www.instagram.com/alexthewoah/"><img src="https://skillicons.dev/icons?i=instagram" alt="Instagram" width="45" height ="45"></a>
